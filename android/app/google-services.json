@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "958079297230",
+    "project_id": "health2mama-e1e71",
+    "storage_bucket": "health2mama-e1e71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958079297230:android:35066efada25dcc317129f",
+        "android_client_info": {
+          "package_name": "com.healthmama.health2mama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958079297230-8ikjgjb5kqkrbbs8tfb52s7vb29itut2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmama.health2mama",
+            "certificate_hash": "4192a95978fcf10aabbc2e5f01d59f51d8b019a0"
+          }
+        },
+        {
+          "client_id": "958079297230-kq3cdugcfmfgna4b31stclbksvgfltad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmama.health2mama",
+            "certificate_hash": "ff109e54be301a37cdad32f05278fe3c5a774181"
+          }
+        },
+        {
+          "client_id": "958079297230-ogtvsorpb64grb95d58ol9bful74suak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmama.health2mama",
+            "certificate_hash": "e7e3b92d9597feb49ef1f6bdbd9d73eac2967a5a"
+          }
+        },
+        {
+          "client_id": "958079297230-mlk882ietqhcl4j3igsdklik94m9ro73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7clK-at3G_q0h2Xz88IK3Qka675oPKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958079297230-mlk882ietqhcl4j3igsdklik94m9ro73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958079297230-da1qe1pij298n8ghdd6l1ba6fv2qjfe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.Health2mama",
+                "app_store_id": "6446777282"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
